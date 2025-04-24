@@ -122,7 +122,7 @@ public class Portero extends Jugador {
             }
         } catch (FileNotFoundException e) {
             //si no se encuentra el archivo de nombres
-            System.err.println("No se encontró el archivo de nombres de porteros: " + rutaFichero);
+            System.err.println("No se encontró el archivo de nombres: " + rutaFichero);
         } catch (IOException e) {
             //si hay un error al leer el archivo
             System.err.println("Error al leer el archivo: " + e.getMessage());
