@@ -8,7 +8,6 @@ import Champions.*;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);  
         boolean seguirJugando = true;
