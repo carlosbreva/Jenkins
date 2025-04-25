@@ -30,7 +30,7 @@ public class Main {
             System.out.println("=== OPCIONES DISPONIBLES (Recomendamos jugar todas las ligas para obtener una experiencia sorpresa...): ===\n");
             System.out.println("1. Bundesliga (Alemania)");
             System.out.println("2. La Liga (España)");
-            System.out.println("3. Serie A (Italia)");
+            System.out.println("3. Serie A (Italy)");
             System.out.println("4. Ligue 1 (Francia)");
             System.out.println("5. Premier League (Inglaterra)");
             System.out.println("6. Primeira Liga (Portugal)");
