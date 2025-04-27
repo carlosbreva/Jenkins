@@ -40,15 +40,5 @@
         </plugins>
     </build>
 
-    <distributionManagement>
-        <snapshotRepository>
-            <id>nexus</id>
-            <url>https://62ec-88-0-69-20.ngrok-free.app/repository/maven-snapshots/</url>
-        </snapshotRepository>
-        <repository>
-            <id>nexus</id>
-            <url>https://62ec-88-0-69-20.ngrok-free.app/repository/maven-releases/</url>
-        </repository>
-    </distributionManagement>
 
 </project>
