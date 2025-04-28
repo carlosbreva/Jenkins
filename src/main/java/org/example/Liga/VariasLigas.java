@@ -42,7 +42,7 @@ public class VariasLigas
 		System.out.println(PrintTexto.RESET + "\nBIENVENIDO AL SIMULADOR DE LA XTART LEAGUE");
         System.out.println(PrintTexto.GREEN + "\nSELECCIONA UNA OPCIÓN PARA COMENZAR TU AVENTURA Y DISFRUTAR DE NUESTRA LIGA MIXTA");
         System.out.println(PrintTexto.YELLOW + "1. Ver clasificaciones");
-        System.out.println(PrintTexto.PURPLE + "2. Simular las Jornadas");
+        System.out.println(PrintTexto.PURPLE + "2. Simular las Jornadas existentes");
         System.out.println(PrintTexto.RED + "3. Ver equipos");
 		System.out.println(PrintTexto.BLUE + "4. Salir");
         System.out.print(PrintTexto.RESET + "Elige una opción: ");
